@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hi there, I'm Dima! 👋
 
-<!--
-**dimagoldin/dimagoldin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
 
-Here are some ideas to get you started:
+- 💼 Currently working at **Dell Technologies**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+
+- **Languages**: Java, Python, JavaScript
+- **Technologies**: Docker, Kubernetes, Kafka, Elasticsearch, PostgreSQL
+- **Frameworks**: Spring Boot, React
+- **Platforms**: AWS, Azure, GCP, OpenShift, vSphere
+
+## 📈 GitHub Stats
+
+![Dima's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimagoldin&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/dima-goldin/)
+- 📖 [Stack Overflow](https://stackoverflow.com/users/2354335/dima-goldin)
