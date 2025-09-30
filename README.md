@@ -2,7 +2,7 @@
 
 ## 🌟 About Me
 
-- 💼 Currently working at **Dell Technologies**
+- 💼 Currently working at **Island**
 
 ## 🛠️ Skills & Technologies
 
